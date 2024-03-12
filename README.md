@@ -4,7 +4,11 @@
 
 demo => https://youtu.be/cxNEu3Z7ITw
 
-appik adalah sistem membuat dan mengelola dokumen instruksi kerja yang saya bangun menggunakan Codeigniter 4, Bootstrap 5, &amp; MYSQL
+Selama masa magang di PT PJB UBjom PLTMG Arun, saya berhasil merancang dan mengimplementasikan sebuah sistem yang sangat kompleks dan efisien untuk membuat serta mengelola dokumen Instruksi Kerja (IK) berbasis web. Sistem yang saya kembangkan ini saya namakan Appik, yang merupakan singkatan dari Aplikasi Pembuatan Instruksi Kerja. Appik didesain dengan menggunakan teknologi modern seperti CodeIgniter 4 sebagai framework PHP, Bootstrap 5 untuk tampilan responsif, dan MySQL sebagai basis data.
+
+Appik tidak hanya menyediakan antarmuka yang intuitif dan ramah pengguna untuk membuat dan mengelola IK, tetapi juga mengintegrasikan fitur-fitur canggih seperti manajemen versi, otorisasi akses berbasis peran, pencarian cepat, serta notifikasi otomatis. Dengan sistem ini, seluruh staf di PT PJB UBjom PLTMG Arun dapat dengan mudah mengakses, memperbarui, dan berkolaborasi dalam pengembangan IK sesuai dengan kebutuhan operasional.
+
+Keberhasilan dalam mengembangkan Appik tidak hanya menunjukkan kemampuan teknis saya dalam mengimplementasikan solusi yang kompleks, tetapi juga kemampuan analisis dan pemahaman saya terhadap proses bisnis di industri energi. Ini merupakan prestasi yang signifikan bagi saya selama masa magang saya, dan saya sangat bangga atas kontribusi saya terhadap pengembangan sistem informasi yang berdampak positif bagi perusahaan.
 
 # CodeIgniter 4 Application Starter
 
